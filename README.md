@@ -1,6 +1,6 @@
 # ShelfSense
 
-[![CI](https://github.com/VighneshHM/shelfsense/actions/workflows/ci.yml/badge.svg)](https://github.com/VighneshHM/shelfsense/actions/workflows/ci.yml)
+[![CI](https://github.com/VighneshHM/shelf-sense/actions/workflows/ci.yml/badge.svg)](https://github.com/VighneshHM/shelf-sense/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.12%20%7C%203.13-blue)
 ![Tests](https://img.shields.io/badge/tests-864%20passing-brightgreen)
 [![Licence: source-available](https://img.shields.io/badge/licence-source--available-orange)](LICENSE)
@@ -48,8 +48,8 @@ Open **http://localhost:8000** after about 20 seconds (the first start loads the
 You need **Python 3.12 or newer** and Git.
 
 ```bash
-git clone https://github.com/VighneshHM/shelfsense.git
-cd shelfsense
+git clone https://github.com/VighneshHM/shelf-sense.git
+cd shelf-sense
 python -m venv .venv
 ```
 

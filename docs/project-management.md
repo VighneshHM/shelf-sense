@@ -6,7 +6,7 @@
 
 ## Tracker
 
-The tracker is the **GitHub repository `VighneshHM/shelfsense`**: its pull requests, its Actions runs and (available for any
+The tracker is the **GitHub repository `VighneshHM/shelf-sense`**: its pull requests, its Actions runs and (available for any
 future item) its Issues.
 
 To be plain about what was actually done: this was a single-developer, five-day project (5 to 9 October 2026), and work was
